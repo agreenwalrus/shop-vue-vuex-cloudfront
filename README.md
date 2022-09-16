@@ -34,3 +34,15 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Links to App:
+
+task 2.1
+
+http://rss-aws-task1.s3-website-eu-west-1.amazonaws.com
+
+https://dmlt3iv7pfl17.cloudfront.net
+
+task2.2
+
+https://d11kozglwftn8s.cloudfront.net/
